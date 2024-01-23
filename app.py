@@ -125,3 +125,4 @@ elif submit4:
 
 st.markdown("---")
 st.caption("Resume Expert - Making Job Applications Easier")
+st.caption("© Yogi_K")
