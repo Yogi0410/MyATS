@@ -1,4 +1,4 @@
-# Resume Expert: Gemini LLM 
+# Resume Expert
 
 ## Project Overview
 
